@@ -1,6 +1,7 @@
 -- Connected Discord-GitHub | Discord Username: robertcl | Roblox Username: TuPatoDeConfi
 --!strict
 -- IMPORTANT: The mayority of the functions are written in spanish because I am spanish...
+-- The script doesnt do anything on itself because it is the core of all the other scripts in the game, if you join the game you will understand...
 
 local Inventory = {}
 Inventory.__index = Inventory
